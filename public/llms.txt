@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://dvir-e564d666.zappy5.app
+https://example.com
 היכנסו עכשיו ל-dvir, חנות האופנה והבשמים המובילה לגברים ונשים. קולקציות לבוש מרהיבות וניחוחות ממכרים במחירים שווים. העיצוב המושלם לחיים שלך מחכה לך כאן. הצטרף למהפכת הסטייל עוד היום!
 
 ### גלריית מערכת
-https://dvir-e564d666.zappy5.app/editorial-gallery
+https://example.com/editorial-gallery
 צללו לגלריית המערכת של dvir, שם כל תמונה מספרת סיפור של אלגנטיות ותשוקה. קבלו השראה ממראות אופנה עוצרי נשימה ובשמים שכבשו את החושים. התחילו לחקור את היופי שמגדיר אותנו מחדש!
 
 ### אודות
-https://dvir-e564d666.zappy5.app/about
+https://example.com/about
 הכירו את הסיפור של dvir – מותג שנולד מאהבה לאופנה עילית ובשמים נדירים. אנו מחברים בין איכות בלתי מתפשרת לעיצוב שכובש את הלב. גלו את החזון שמניע כל פריט וכל תו ריח בקולקציה שלנו!
 
 ### צור קשר
-https://dvir-e564d666.zappy5.app/contact
+https://example.com/contact
 יש שאלה על מידת לבוש מושלמת או המלצה לניחוח הבא שלך? צרו קשר עם צוות dvir עוד היום! אנחנו כאן כדי להפוך כל אינטראקציה לחוויה אישית ומפנקת. שלחו הודעה והתחילו במסע הסטייל שלכם!
 
 ### Products
-https://dvir-e564d666.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - dvir
 
 ### Cart
-https://dvir-e564d666.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://dvir-e564d666.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://dvir-e564d666.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://dvir-e564d666.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://dvir-e564d666.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://dvir-e564d666.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - dvir
 
 ### Category
-https://dvir-e564d666.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - dvir
 
 ### תודה על פנייתך
-https://dvir-e564d666.zappy5.app/thank-you
+https://example.com/thank-you
 dvir - תודה על פנייתך
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://dvir-e564d666.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://dvir-e564d666.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://dvir-e564d666.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -98,8 +98,8 @@ Fashion & Fragrance E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://dvir-e564d666.zappy5.app/sitemap.xml
-- Robots: https://dvir-e564d666.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://dvir-e564d666.zappy5.app/llms-full.txt
-- Products (JSON): https://dvir-e564d666.zappy5.app/products.json
-- Products (Google Merchant RSS): https://dvir-e564d666.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
