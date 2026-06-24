@@ -1,0 +1,105 @@
+# dvir — Generative Engine Optimization Map
+
+> An online fashion and fragrance store targeting both men and women, offering clothing and perfumes. The user envisions a visually rich website with beautiful images and attractive design, suggesting a lifestyle-oriented brand with strong aesthetic appeal.
+
+---
+
+## Pages
+
+### בית
+https://dvir-e564d666.zappy5.app
+היכנסו עכשיו ל-dvir, חנות האופנה והבשמים המובילה לגברים ונשים. קולקציות לבוש מרהיבות וניחוחות ממכרים במחירים שווים. העיצוב המושלם לחיים שלך מחכה לך כאן. הצטרף למהפכת הסטייל עוד היום!
+
+### גלריית מערכת
+https://dvir-e564d666.zappy5.app/editorial-gallery
+צללו לגלריית המערכת של dvir, שם כל תמונה מספרת סיפור של אלגנטיות ותשוקה. קבלו השראה ממראות אופנה עוצרי נשימה ובשמים שכבשו את החושים. התחילו לחקור את היופי שמגדיר אותנו מחדש!
+
+### אודות
+https://dvir-e564d666.zappy5.app/about
+הכירו את הסיפור של dvir – מותג שנולד מאהבה לאופנה עילית ובשמים נדירים. אנו מחברים בין איכות בלתי מתפשרת לעיצוב שכובש את הלב. גלו את החזון שמניע כל פריט וכל תו ריח בקולקציה שלנו!
+
+### צור קשר
+https://dvir-e564d666.zappy5.app/contact
+יש שאלה על מידת לבוש מושלמת או המלצה לניחוח הבא שלך? צרו קשר עם צוות dvir עוד היום! אנחנו כאן כדי להפוך כל אינטראקציה לחוויה אישית ומפנקת. שלחו הודעה והתחילו במסע הסטייל שלכם!
+
+### Products
+https://dvir-e564d666.zappy5.app/products
+המוצרים שלנו - dvir
+
+### Cart
+https://dvir-e564d666.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://dvir-e564d666.zappy5.app/checkout
+תשלום
+
+### Login
+https://dvir-e564d666.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://dvir-e564d666.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://dvir-e564d666.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://dvir-e564d666.zappy5.app/product/:slug
+פרטי המוצר - dvir
+
+### Category
+https://dvir-e564d666.zappy5.app/category/:slug
+מוצרים - dvir
+
+### תודה על פנייתך
+https://dvir-e564d666.zappy5.app/thank-you
+dvir - תודה על פנייתך
+
+## Legal & Policy
+
+### Privacy Policy
+https://dvir-e564d666.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://dvir-e564d666.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://dvir-e564d666.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About dvir
+An online fashion and fragrance store targeting both men and women, offering clothing and perfumes. The user envisions a visually rich website with beautiful images and attractive design, suggesting a lifestyle-oriented brand with strong aesthetic appeal.
+
+## Target Audience
+- גברים ונשים
+- צעירים אופנתיים
+- אספני בשמים מקצועיים
+- חובבי קניות אונליין
+
+## Industry
+Fashion & Fragrance E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://dvir-e564d666.zappy5.app/sitemap.xml
+- Robots: https://dvir-e564d666.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://dvir-e564d666.zappy5.app/llms-full.txt
+- Products (JSON): https://dvir-e564d666.zappy5.app/products.json
+- Products (Google Merchant RSS): https://dvir-e564d666.zappy5.app/product-feed.xml
